@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import t from "./t.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -38,7 +38,7 @@ import tripify from "./tripify.png";
 import facebook from "./facebook.png";
 
 export {
-  logo,
+  t,
   backend,
   creator,
   mobile,
